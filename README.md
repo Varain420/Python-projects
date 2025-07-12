@@ -12,7 +12,7 @@ How to Run
     Clone the repository:
     bash
 
-git clone https://github.com/Varain420/Python-projects
+git clone https://github.com/Varain420/Python-projects](https://github.com/Varain420/Python-projects/tree/main/Sah/SahPython-main
 
 Install Pygame (if not already installed):
 bash
